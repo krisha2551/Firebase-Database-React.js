@@ -87,15 +87,6 @@ src/
 
 1. Create a project on **Firebase Console**
 2. Enable **Firestore Database**
-3. Create a `.env` file in root directory
-
-```env
-VITE_FIREBASE_API_KEY=AIzaSyBhygA8N24UBaXVRcQWQy2VSEdOJNYTEwM
-VITE_FIREBASE_AUTH_DOMAIN=fir-crud-app-1c145.firebaseapp.com
-VITE_FIREBASE_PROJECT_ID=fir-crud-app-1c145
-VITE_FIREBASE_STORAGE_BUCKET=fir-crud-app-1c145.firebasestorage.app
-VITE_FIREBASE_MESSAGING_SENDER_ID=855359242514
-VITE_FIREBASE_APP_ID=1:855359242514:web:4f0dc35259a2923eeaf3cb
 
 ---
 
